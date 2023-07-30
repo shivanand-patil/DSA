@@ -1,4 +1,4 @@
-package SubsetSubSequenceString;
+package Backtracking;
 
 import java.util.ArrayList;
 
